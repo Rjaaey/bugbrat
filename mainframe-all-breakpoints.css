@@ -1,0 +1,327 @@
+/* screen - mainframe-all-breakpoints */
+
+.mainframe-all-breakpoints {
+  background-color: var(--white);
+  height: 71.11vw;
+  overflow: hidden;
+  position: relative;
+  width: 100.0vw;
+}
+
+.mainframe-all-breakpoints .headar-bar-2 {
+  height: 4.93vw;
+  left: -0.56vw;
+  position: absolute;
+  top: 0;
+  width: 101.04vw;
+}
+
+.mainframe-all-breakpoints .top-rectangle-2 {
+  background-color: var(--cosmos);
+  height: 6.32vw;
+  left: -0.69vw;
+  position: relative;
+  top: -0.69vw;
+  width: 102.43vw;
+}
+
+.mainframe-all-breakpoints .frame-24-3 {
+  align-items: center;
+  display: inline-flex;
+  gap: 1.18vw;
+  left: 79.44vw;
+  position: absolute;
+  top: 1.39vw;
+}
+
+.mainframe-all-breakpoints .place-3 {
+  height: 2.92vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+  width: 4.93vw;
+}
+
+.mainframe-all-breakpoints .about-3 {
+  cursor: pointer;
+  height: 2.92vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+  width: 4.79vw;
+}
+
+.mainframe-all-breakpoints .artwork-3 {
+  cursor: pointer;
+  height: 2.92vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+  width: 6.39vw;
+}
+
+.mainframe-all-breakpoints .frame-5-2 {
+  background-image: url(../img/frame-5-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 66.46vw;
+  left: -0.42vw;
+  position: absolute;
+  top: 4.86vw;
+  width: 100.9vw;
+}
+
+.mainframe-all-breakpoints .frame-23-2 {
+  display: flex;
+  height: 3.68vw;
+  left: 2.01vw;
+  position: absolute;
+  top: 0.62vw;
+  width: 21.6vw;
+}
+
+.mainframe-all-breakpoints .title-2 {
+  height: 3.68vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -0.03vw;
+  margin-top: 0.97vw;
+  position: relative;
+  white-space: nowrap;
+  width: 21.67vw;
+}
+/* screen - mobile */
+
+.mobile {
+  background-color: var(--white);
+  height: 213.33vw;
+  overflow: hidden;
+  position: relative;
+  width: 100.0vw;
+}
+
+.mobile .frame-5 {
+  background-image: url(../img/frame-5-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 206.25vw;
+  justify-content: flex-end;
+  left: -0.42vw;
+  overflow: hidden;
+  position: absolute;
+  top: 7.71vw;
+  width: 100.83vw;
+}
+
+.mobile .frame-24 {
+  align-items: center;
+  display: flex;
+  height: 4.38vw;
+  margin-right: -1.92vw;
+  margin-top: -4.79vw;
+  position: relative;
+  width: 37.5vw;
+}
+
+.mobile .place {
+  margin-bottom: -1.98vw;
+  margin-top: -2.4vw;
+}
+
+.mobile .about {
+  margin-bottom: -1.98vw;
+  margin-top: -2.4vw;
+}
+
+.mobile .artwork {
+  margin-bottom: -1.98vw;
+  margin-right: -1.67vw;
+  margin-top: -2.4vw;
+}
+
+.mobile .headar-bar {
+  height: 8.96vw;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100.0vw;
+}
+
+.mobile .top-rectangle {
+  background-color: var(--cosmos);
+  height: 13.12vw;
+  left: -2.08vw;
+  position: relative;
+  top: -2.08vw;
+  width: 104.17vw;
+}
+
+.mobile .frame-23 {
+  display: flex;
+  height: 10.62vw;
+  left: 1.88vw;
+  position: absolute;
+  top: -1.67vw;
+  width: 48.96vw;
+}
+
+.mobile .title {
+  height: 11.04vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 0.04vw;
+  margin-top: 4.58vw;
+  position: relative;
+  width: 65.0vw;
+}
+
+.mobile .frame-24-1 {
+  align-items: center;
+  display: inline-flex;
+  left: 65.21vw;
+  position: absolute;
+  top: 5.21vw;
+}
+
+.mobile .place-1 {
+  margin-top: -0.21vw;
+}
+
+.mobile .about-1 {
+  cursor: pointer;
+  margin-top: -0.21vw;
+}
+
+.mobile .artwork-1 {
+  margin-top: -0.21vw;
+}
+
+.mobile .about-4 {
+  height: 8.75vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -4.58vw;
+  position: relative;
+  width: 14.37vw;
+}
+
+.mobile .artwork-3 {
+  cursor: pointer;
+  height: 8.75vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -4.58vw;
+  position: relative;
+  width: 19.17vw;
+}
+
+.mobile .place-2 {
+  height: 8.75vw;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 14.79vw;
+}
+/* screen - tablet */
+
+.tablet {
+  background-color: var(--white);
+  height: 100.0vw;
+  overflow: hidden;
+  position: relative;
+  width: 100.0vw;
+}
+
+.tablet .headar-bar-1 {
+  height: 6.93vw;
+  left: -0.49vw;
+  position: absolute;
+  top: 0;
+  width: 101.07vw;
+}
+
+.tablet .top-rectangle-1 {
+  background-color: var(--cosmos);
+  height: 8.89vw;
+  left: -0.98vw;
+  position: relative;
+  top: -0.98vw;
+  width: 103.03vw;
+}
+
+.tablet .frame-24-2 {
+  align-items: center;
+  display: inline-flex;
+  gap: 1.66vw;
+  left: 72.07vw;
+  position: absolute;
+  top: 1.95vw;
+}
+
+.tablet .place-2 {
+  height: 4.1vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.1vw;
+  position: relative;
+  width: 6.93vw;
+}
+
+.tablet .about-2 {
+  cursor: pointer;
+  height: 4.1vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.1vw;
+  position: relative;
+  width: 6.74vw;
+}
+
+.tablet .artwork-2 {
+  cursor: pointer;
+  height: 4.1vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.1vw;
+  position: relative;
+  width: 8.98vw;
+}
+
+.tablet .frame-5-1 {
+  background-image: url(../img/frame-5-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 93.46vw;
+  left: -0.39vw;
+  position: absolute;
+  top: 6.84vw;
+  width: 100.88vw;
+}
+@media screen and (max-width: 1023px) {
+  .screen.tablet { 
+    display: none;
+   }
+  .screen.mainframe-all-breakpoints { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1024px) and (max-width: 1439px) {
+  .screen.mobile { 
+    display: none;
+   }
+  .screen.mainframe-all-breakpoints { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1440px) {
+  .screen.mobile { 
+    display: none;
+   }
+  .screen.tablet { 
+    display: none;
+   }
+}

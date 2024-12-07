@@ -1,0 +1,78 @@
+:root { 
+  --black: #000000;
+  --cosmos: #f7dad9;
+  --white: #ffffff;
+ 
+  --font-size-l: 15px;
+  --font-size-m: 14px;
+  --font-size-s: 13px;
+  --font-size-xl: 24px;
+  --font-size-xxl: 36px;
+  --font-size-xxxl: 48px;
+ 
+  --font-family-mortend-bold: "Mortend-Bold", Helvetica;
+  --font-family-tiro_telugu: "Tiro Telugu", Helvetica;
+}
+.tirotelugu-normal-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-tiro_telugu);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.tirotelugu-normal-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-tiro_telugu);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.mortend-bold-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-mortend-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.tirotelugu-normal-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-tiro_telugu);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.mortend-bold-black-13px {
+  color: var(--black);
+  font-family: var(--font-family-mortend-bold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.mortend-bold-black-48px {
+  color: var(--black);
+  font-family: var(--font-family-mortend-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.tirotelugu-normal-black-13px {
+  color: var(--black);
+  font-family: var(--font-family-tiro_telugu);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.mortend-bold-black-36px {
+  color: var(--black);
+  font-family: var(--font-family-mortend-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}

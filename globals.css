@@ -1,0 +1,65 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Tiro+Telugu:400");
+@font-face {
+  font-family: "Mortend-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/Mortend Bold.ttf") format("truetype");
+}
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.frame-23-1 {
+  display: flex;
+  height: 5.18vw;
+  left: 2.05vw;
+  position: absolute;
+  top: 0.88vw;
+  width: 30.37vw;
+}
+
+.title-1 {
+  height: 5.18vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -0.05vw;
+  margin-top: 1.37vw;
+  position: relative;
+  white-space: nowrap;
+  width: 30.47vw;
+}
+
+.icons-1 {
+  height: 3.61vw;
+  left: 1.17vw;
+  position: absolute;
+  top: 92.97vw;
+  width: 9.18vw;
+}

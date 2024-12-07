@@ -1,0 +1,352 @@
+/* screen - about-1-all-breakpoints */
+
+.about-1-all-breakpoints {
+  background-color: var(--white);
+  height: 71.61vw;
+  position: relative;
+  width: 100.0vw;
+}
+
+.about-1-all-breakpoints .icons {
+  height: 2.59vw;
+  left: 0.84vw;
+  position: absolute;
+  top: 66.57vw;
+  width: 6.57vw;
+}
+
+.about-1-all-breakpoints .headar-bar {
+  height: 4.97vw;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100.0vw;
+}
+
+.about-1-all-breakpoints .top-rectangle {
+  background-color: var(--cosmos);
+  height: 6.36vw;
+  left: -0.7vw;
+  position: relative;
+  top: -0.7vw;
+  width: 101.4vw;
+}
+
+.about-1-all-breakpoints .frame-24 {
+  align-items: center;
+  display: inline-flex;
+  gap: 1.19vw;
+  left: 80.0vw;
+  position: absolute;
+  top: 1.4vw;
+}
+
+.about-1-all-breakpoints .place {
+  cursor: pointer;
+  height: 2.94vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+  width: 4.97vw;
+}
+
+.about-1-all-breakpoints .about {
+  cursor: pointer;
+  height: 2.94vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+  width: 4.83vw;
+}
+
+.about-1-all-breakpoints .artwork {
+  cursor: pointer;
+  height: 2.94vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+  width: 6.43vw;
+}
+
+.about-1-all-breakpoints .frame-21 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 1.75vw;
+  left: 8.04vw;
+  position: absolute;
+  top: 15.31vw;
+  width: 54.48vw;
+}
+
+.about-1-all-breakpoints .about-bugbrat-draws {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+}
+
+.about-1-all-breakpoints .contact-for-personal {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 44.23vw;
+}
+
+.about-1-all-breakpoints .frame-23 {
+  display: flex;
+  height: 3.71vw;
+  left: 2.03vw;
+  position: absolute;
+  top: 0.63vw;
+  width: 21.75vw;
+}
+
+.about-1-all-breakpoints .title {
+  height: 3.71vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -0.03vw;
+  margin-top: 0.98vw;
+  position: relative;
+  white-space: nowrap;
+  width: 21.82vw;
+}
+/* screen - about-2 */
+
+.about-2 {
+  background-color: var(--white);
+  height: 100.0vw;
+  position: relative;
+  width: 100.0vw;
+}
+
+.about-2 .headar-bar-1 {
+  height: 6.93vw;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100.0vw;
+}
+
+.about-2 .top-rectangle-1 {
+  background-color: var(--cosmos);
+  height: 8.89vw;
+  left: -0.98vw;
+  position: relative;
+  top: -0.98vw;
+  width: 101.95vw;
+}
+
+.about-2 .frame-24-1 {
+  align-items: center;
+  display: inline-flex;
+  gap: 1.66vw;
+  left: 72.66vw;
+  position: absolute;
+  top: 1.95vw;
+}
+
+.about-2 .place-1 {
+  cursor: pointer;
+  height: 4.1vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.1vw;
+  position: relative;
+  width: 6.93vw;
+}
+
+.about-2 .about-1 {
+  cursor: pointer;
+  height: 4.1vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.1vw;
+  position: relative;
+  width: 6.74vw;
+}
+
+.about-2 .artwork-1 {
+  cursor: pointer;
+  height: 4.1vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.1vw;
+  position: relative;
+  width: 8.98vw;
+}
+
+.about-2 .frame-21-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2.44vw;
+  left: 8.01vw;
+  position: absolute;
+  top: 17.77vw;
+  width: 54.49vw;
+}
+
+.about-2 .about-bugbrat-draws-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.1vw;
+  position: relative;
+}
+
+.about-2 .contact-for-personal-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -7.3vw;
+  position: relative;
+  width: 61.77vw;
+}
+/* screen - about-3 */
+
+.about-3 {
+  background-color: var(--white);
+  height: 213.33vw;
+  overflow: hidden;
+  position: relative;
+  width: 100.0vw;
+}
+
+.about-3 .icons-2 {
+  height: 7.71vw;
+  left: 2.5vw;
+  position: absolute;
+  top: 198.33vw;
+  width: 19.58vw;
+}
+
+.about-3 .headar-bar-2 {
+  height: 8.96vw;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100.0vw;
+}
+
+.about-3 .top-rectangle-2 {
+  background-color: var(--cosmos);
+  height: 13.12vw;
+  left: -2.08vw;
+  position: relative;
+  top: -2.08vw;
+  width: 104.17vw;
+}
+
+.about-3 .frame-24-2 {
+  align-items: center;
+  display: inline-flex;
+  left: 65.21vw;
+  position: absolute;
+  top: 5.21vw;
+}
+
+.about-3 .place-2 {
+  cursor: pointer;
+  height: 8.75vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.21vw;
+  position: relative;
+  width: 14.79vw;
+}
+
+.about-3 .about-4 {
+  height: 8.75vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -4.58vw;
+  margin-top: -0.21vw;
+  position: relative;
+  width: 14.37vw;
+}
+
+.about-3 .artwork-2 {
+  cursor: pointer;
+  height: 8.75vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -4.58vw;
+  margin-top: -0.21vw;
+  position: relative;
+  width: 19.17vw;
+}
+
+.about-3 .frame-21-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5.21vw;
+  left: 8.12vw;
+  position: absolute;
+  top: 27.5vw;
+  width: 54.37vw;
+}
+
+.about-3 .about-bugbrat-draws-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.21vw;
+  position: relative;
+}
+
+.about-3 .contact-for-personal-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -77.31vw;
+  position: relative;
+  width: 131.78vw;
+}
+
+.about-3 .frame-23-2 {
+  display: flex;
+  height: 10.0vw;
+  left: 1.88vw;
+  position: absolute;
+  top: -1.04vw;
+  width: 48.96vw;
+}
+
+.about-3 .title-2 {
+  height: 11.04vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 0.02vw;
+  margin-top: 3.96vw;
+  position: relative;
+  width: 65.0vw;
+}
+@media screen and (max-width: 1023px) {
+  .screen.about-1-all-breakpoints { 
+    display: none;
+   }
+  .screen.about-2 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1024px) and (max-width: 1429px) {
+  .screen.about-1-all-breakpoints { 
+    display: none;
+   }
+  .screen.about-3 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1430px) {
+  .screen.about-2 { 
+    display: none;
+   }
+  .screen.about-3 { 
+    display: none;
+   }
+}

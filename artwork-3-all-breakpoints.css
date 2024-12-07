@@ -1,0 +1,455 @@
+/* screen - artwork-1 */
+
+.artwork-1 {
+  background-color: var(--white);
+  height: 213.33vw;
+  overflow: hidden;
+  position: relative;
+  width: 100.0vw;
+}
+
+.artwork-1 .headar-bar {
+  height: 8.96vw;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100.0vw;
+}
+
+.artwork-1 .top-rectangle {
+  background-color: var(--cosmos);
+  height: 13.12vw;
+  left: -2.08vw;
+  position: relative;
+  top: -2.08vw;
+  width: 104.17vw;
+}
+
+.artwork-1 .icons {
+  height: 7.71vw;
+  left: 2.5vw;
+  position: absolute;
+  top: 198.33vw;
+  width: 19.58vw;
+}
+
+.artwork-1 .frame-24 {
+  align-items: center;
+  display: inline-flex;
+  left: 65.21vw;
+  position: absolute;
+  top: 5.21vw;
+}
+
+.artwork-1 .place {
+  cursor: pointer;
+  height: 8.75vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.21vw;
+  position: relative;
+  width: 14.79vw;
+}
+
+.artwork-1 .about {
+  cursor: pointer;
+  height: 8.75vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -4.58vw;
+  margin-top: -0.21vw;
+  position: relative;
+  width: 14.37vw;
+}
+
+.artwork-1 .artwork {
+  cursor: pointer;
+  height: 8.75vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -4.58vw;
+  margin-top: -0.21vw;
+  position: relative;
+  width: 19.17vw;
+}
+
+.artwork-1 .frame-13 {
+  align-items: center;
+  display: inline-flex;
+  gap: 2.08vw;
+  justify-content: center;
+  left: 4.58vw;
+  padding: 2.08vw;
+  position: absolute;
+  top: 17.71vw;
+}
+
+.artwork-1 .title-artwork {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.21vw;
+  position: relative;
+  width: fit-content;
+}
+
+.artwork-1 .frame-23 {
+  display: flex;
+  height: 8.96vw;
+  left: 1.88vw;
+  position: absolute;
+  top: 0;
+  width: 48.96vw;
+}
+
+.artwork-1 .title {
+  height: 11.04vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -0.1vw;
+  margin-top: 2.92vw;
+  position: relative;
+  width: 65.0vw;
+}
+
+.artwork-1 .content::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.artwork-1 .content {
+  align-items: center;
+  display: flex;
+  gap: 9.58vw;
+  height: 161.46vw;
+  left: 4.58vw;
+  overflow: hidden;
+  overflow-x: scroll;
+  position: absolute;
+  top: 26.04vw;
+  width: 300.0vw;
+}
+
+.artwork-1 .image {
+  height: 161.46vw;
+  object-fit: cover;
+  position: relative;
+  width: 112.23vw;
+}
+
+.artwork-1 .image-1 {
+  width: 114.2vw;
+}
+
+.artwork-1 .image-2 {
+  width: 228.4vw;
+}
+
+.artwork-1 .image-3 {
+  width: 230.37vw;
+}
+
+.artwork-1 .image-4 {
+  height: 161.46vw;
+  object-fit: cover;
+  position: relative;
+}
+/* screen - artwork-2 */
+
+.artwork-2 {
+  background-color: var(--white);
+  height: 100.0vw;
+  overflow: hidden;
+  position: relative;
+  width: 100.0vw;
+}
+
+.artwork-2 .headar-bar-1 {
+  height: 6.93vw;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100.1vw;
+}
+
+.artwork-2 .top-rectangle-1 {
+  background-color: var(--cosmos);
+  height: 8.89vw;
+  left: -0.98vw;
+  position: relative;
+  top: -0.98vw;
+  width: 102.05vw;
+}
+
+.artwork-2 .frame-24-1 {
+  align-items: center;
+  display: inline-flex;
+  gap: 1.66vw;
+  left: 72.27vw;
+  position: absolute;
+  top: 1.95vw;
+}
+
+.artwork-2 .place-1 {
+  cursor: pointer;
+  height: 4.1vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.1vw;
+  position: relative;
+  width: 6.93vw;
+}
+
+.artwork-2 .about-1 {
+  cursor: pointer;
+  height: 4.1vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.1vw;
+  position: relative;
+  width: 6.74vw;
+}
+
+.artwork-2 .artwork-3 {
+  cursor: pointer;
+  height: 4.1vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.1vw;
+  position: relative;
+  width: 8.98vw;
+}
+
+.artwork-2 .frame-13-1 {
+  align-items: center;
+  display: inline-flex;
+  gap: 0.98vw;
+  justify-content: center;
+  left: 2.15vw;
+  padding: 0.98vw;
+  position: absolute;
+  top: 8.3vw;
+}
+
+.artwork-2 .title-artwork-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.1vw;
+  position: relative;
+  width: fit-content;
+}
+
+.artwork-2 .content-1::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.artwork-2 .content-1 {
+  align-items: center;
+  display: flex;
+  gap: 4.49vw;
+  height: 75.68vw;
+  left: 2.15vw;
+  overflow: hidden;
+  overflow-x: scroll;
+  position: absolute;
+  top: 12.21vw;
+  width: 140.62vw;
+}
+
+.artwork-2 .image-4 {
+  width: 52.61vw;
+}
+
+.artwork-2 .image-5 {
+  width: 53.53vw;
+}
+
+.artwork-2 .image-6 {
+  width: 107.06vw;
+}
+
+.artwork-2 .image-7 {
+  width: 107.99vw;
+}
+
+.artwork-2 .image {
+  height: 75.68vw;
+  object-fit: cover;
+  position: relative;
+}
+/* screen - artwork-3-all-breakpoints */
+
+.artwork-3-all-breakpoints {
+  background-color: var(--white);
+  height: 71.11vw;
+  overflow: hidden;
+  position: relative;
+  width: 100.0vw;
+}
+
+.artwork-3-all-breakpoints .headar-bar-2 {
+  height: 4.93vw;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100.07vw;
+}
+
+.artwork-3-all-breakpoints .top-rectangle-2 {
+  background-color: var(--cosmos);
+  height: 6.32vw;
+  left: -0.69vw;
+  position: relative;
+  top: -0.69vw;
+  width: 101.46vw;
+}
+
+.artwork-3-all-breakpoints .icons-2 {
+  height: 2.57vw;
+  left: 0.83vw;
+  position: absolute;
+  top: 66.11vw;
+  width: 6.53vw;
+}
+
+.artwork-3-all-breakpoints .frame-24-2 {
+  align-items: center;
+  display: inline-flex;
+  gap: 1.18vw;
+  left: 79.72vw;
+  position: absolute;
+  top: 1.39vw;
+}
+
+.artwork-3-all-breakpoints .place-2 {
+  cursor: pointer;
+  height: 2.92vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+  width: 4.93vw;
+}
+
+.artwork-3-all-breakpoints .about-2 {
+  cursor: pointer;
+  height: 2.92vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+  width: 4.79vw;
+}
+
+.artwork-3-all-breakpoints .artwork-4 {
+  cursor: pointer;
+  height: 2.92vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+  width: 6.39vw;
+}
+
+.artwork-3-all-breakpoints .frame-13-2 {
+  align-items: center;
+  display: inline-flex;
+  gap: 0.69vw;
+  justify-content: center;
+  left: 1.53vw;
+  padding: 0.69vw;
+  position: absolute;
+  top: 5.9vw;
+}
+
+.artwork-3-all-breakpoints .title-artwork-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.07vw;
+  position: relative;
+  width: fit-content;
+}
+
+.artwork-3-all-breakpoints .frame-23-2 {
+  display: flex;
+  height: 3.68vw;
+  left: 2.01vw;
+  position: absolute;
+  top: 0.62vw;
+  width: 21.6vw;
+}
+
+.artwork-3-all-breakpoints .title-2 {
+  height: 3.68vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -0.03vw;
+  margin-top: 0.97vw;
+  position: relative;
+  white-space: nowrap;
+  width: 21.67vw;
+}
+
+.artwork-3-all-breakpoints .content-2::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.artwork-3-all-breakpoints .content-2 {
+  align-items: center;
+  display: flex;
+  gap: 3.19vw;
+  height: 53.82vw;
+  left: 1.53vw;
+  overflow: hidden;
+  overflow-x: scroll;
+  position: absolute;
+  top: 8.68vw;
+  width: 100.0vw;
+}
+
+.artwork-3-all-breakpoints .image-8 {
+  width: 37.41vw;
+}
+
+.artwork-3-all-breakpoints .image-9 {
+  width: 38.07vw;
+}
+
+.artwork-3-all-breakpoints .image-10 {
+  width: 76.13vw;
+}
+
+.artwork-3-all-breakpoints .image-11 {
+  width: 76.79vw;
+}
+
+.artwork-3-all-breakpoints .image {
+  height: 53.82vw;
+  object-fit: cover;
+  position: relative;
+}
+@media screen and (max-width: 1023px) {
+  .screen.artwork-2 { 
+    display: none;
+   }
+  .screen.artwork-3-all-breakpoints { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1024px) and (max-width: 1439px) {
+  .screen.artwork-1 { 
+    display: none;
+   }
+  .screen.artwork-3-all-breakpoints { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1440px) {
+  .screen.artwork-1 { 
+    display: none;
+   }
+  .screen.artwork-2 { 
+    display: none;
+   }
+}
